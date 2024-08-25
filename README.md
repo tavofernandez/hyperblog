@@ -10,6 +10,8 @@ Un blog increible para el curso de Git y Github
 * Trucos muy divertidos del profesor.
 * Las personalidades multiples de Roman.
 * Creado por el increible Halen Team.
+* Incluye ejemplos en Windows, Linux, Mac.
+* Disponible para todas las edades.
 
 
 Y como un amable recordatorio: **Este readme.md es una prueba**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES MUY EN SERIO y mejor ve [**a ver un video**](https://www.youtube.com/watch?v=T56Rpiatjzo/ "a ver un video").
